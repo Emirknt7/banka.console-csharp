@@ -1,0 +1,44 @@
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\banka 2\banka 2\bin\Debug\banka 2.exe.config
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\banka 2\banka 2\bin\Debug\banka 2.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\banka 2\banka 2\bin\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\banka 2\banka 2\obj\Debug\banka 2.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\banka 2\banka 2\obj\Debug\banka 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\banka 2\banka 2\obj\Debug\banka 2.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\banka 2\banka 2\obj\Debug\banka 2.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\banka 2\banka 2\obj\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\en iyi BANKA\banka 2\bin\Debug\banka 2.exe.config
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\en iyi BANKA\banka 2\bin\Debug\banka 2.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\en iyi BANKA\banka 2\bin\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\en iyi BANKA\banka 2\obj\Debug\banka 2.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\en iyi BANKA\banka 2\obj\Debug\banka 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\en iyi BANKA\banka 2\obj\Debug\banka 2.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\en iyi BANKA\banka 2\obj\Debug\banka 2.exe
+C:\Users\Emir\Desktop\EMR\kodlama\c#\c# test\en iyi BANKA\banka 2\obj\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\visual studio comment\en iyi BANKA\banka 2\bin\Debug\banka 2.exe.config
+C:\Users\Emir\Desktop\Emr\c#\c# test\visual studio comment\en iyi BANKA\banka 2\bin\Debug\banka 2.exe
+C:\Users\Emir\Desktop\Emr\c#\c# test\visual studio comment\en iyi BANKA\banka 2\bin\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\Emr\c#\c# test\visual studio comment\en iyi BANKA\banka 2\obj\Debug\banka 2.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\visual studio comment\en iyi BANKA\banka 2\obj\Debug\banka 2.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\c# test\visual studio comment\en iyi BANKA\banka 2\obj\Debug\banka 2.exe
+C:\Users\Emir\Desktop\Emr\c#\c# test\visual studio comment\en iyi BANKA\banka 2\obj\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\Emr\c#\en iyi BANKA\banka 2\bin\Debug\banka 2.exe.config
+C:\Users\Emir\Desktop\Emr\c#\en iyi BANKA\banka 2\bin\Debug\banka 2.exe
+C:\Users\Emir\Desktop\Emr\c#\en iyi BANKA\banka 2\bin\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\Emr\c#\en iyi BANKA\banka 2\obj\Debug\banka 2.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Emr\c#\en iyi BANKA\banka 2\obj\Debug\banka 2.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\en iyi BANKA\banka 2\obj\Debug\banka 2.exe
+C:\Users\Emir\Desktop\Emr\c#\en iyi BANKA\banka 2\obj\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\Emr\c#\mük banka\banka 2\bin\Debug\banka 2.exe.config
+C:\Users\Emir\Desktop\Emr\c#\mük banka\banka 2\bin\Debug\banka 2.exe
+C:\Users\Emir\Desktop\Emr\c#\mük banka\banka 2\bin\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\Emr\c#\mük banka\banka 2\obj\Debug\banka 2.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Emr\c#\mük banka\banka 2\obj\Debug\banka 2.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\c#\mük banka\banka 2\obj\Debug\banka 2.exe
+C:\Users\Emir\Desktop\Emr\c#\mük banka\banka 2\obj\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\mük banka\banka 2\bin\Debug\banka 2.exe.config
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\mük banka\banka 2\bin\Debug\banka 2.exe
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\mük banka\banka 2\bin\Debug\banka 2.pdb
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\mük banka\banka 2\obj\Debug\banka 2.csproj.AssemblyReference.cache
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\mük banka\banka 2\obj\Debug\banka 2.csproj.CoreCompileInputs.cache
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\mük banka\banka 2\obj\Debug\banka 2.exe
+C:\Users\Emir\Desktop\Emr\github projeleri\c# console kodları\mük banka\banka 2\obj\Debug\banka 2.pdb
